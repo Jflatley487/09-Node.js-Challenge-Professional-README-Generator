@@ -1,12 +1,16 @@
 
-        # ReadMe Generator
+        # README generator
 
         ## Description
 
-        blah blah
+        creates a readme for my project based on user prompts
 
         ## Installation
 
-        install it with install procedures
+        follow the installation procedures
+
+        ## Screenshot
+
+        screenshot.link
 
         
