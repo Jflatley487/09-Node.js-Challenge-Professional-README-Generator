@@ -3,11 +3,7 @@
 
         ## Description
 
-        creates a readme for my project based on user prompts
-
-        ## Installation
-
-        follow the installation procedures
+        This app uses the node.js to enter information to the command line in order to generate a README file
 
         ## Screenshot
 
