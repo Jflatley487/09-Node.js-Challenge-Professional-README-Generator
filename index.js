@@ -17,8 +17,14 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'What are the installation instructions for your project',
+        message: 'What are the installation instructions for your project?',
+    
     },
+    {
+        type: 'input',
+        name: 'screenshot',
+        message: 'Would you like to include a screenshot of your project?'
+    }
 ];
 
 // TODO: Create a function to write README file
