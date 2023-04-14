@@ -48,6 +48,10 @@ function init() {
 
         ${answers.installation}
 
+        ## Screenshot
+
+        ${answers.screenshot}
+
         `;
             writeToFile('README.md', readme);
     });
